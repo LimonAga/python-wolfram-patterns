@@ -1,4 +1,4 @@
-#Made by LimonAga. Press 'esc' to exit window, 'space' to change color. (don
+#Made by LimonAga. Press 'esc' to exit window, 'space' to change color.
 import sys
 import random
 import colorsys
