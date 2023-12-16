@@ -83,7 +83,7 @@ while True:
                 sys.exit()
 
             if event.key == pygame.K_SPACE:
-                    change_color = not change_color
+                change_color = not change_color
 
     # Get a empty grid
     grid = create_new_grid()
